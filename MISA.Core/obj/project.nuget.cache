@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNiwq5rlKYGV9sWMbb2GA+68chD1SU+T3E9hBZweUNs8z2n+xJyu15r2Al+frcD9/Zo0d8DjklL94MpteyxEuw==",
+  "success": true,
+  "projectFilePath": "D:\\MISA\\ASP.NET_Core\\MISA.CukCuk.API\\MISA.Core\\MISA.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trant\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\trant\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.34\\microsoft.crmsdk.coreassemblies.9.0.2.34.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.CrmSdk.CoreAssemblies 9.0.2.34' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.CrmSdk.CoreAssemblies",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

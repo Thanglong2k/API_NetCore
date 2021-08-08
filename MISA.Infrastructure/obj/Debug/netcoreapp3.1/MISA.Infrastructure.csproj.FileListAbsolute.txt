@@ -1,0 +1,5 @@
+D:\MISA\ASP.NET_Core\MISA.CukCuk.API\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Core.dll
+D:\MISA\ASP.NET_Core\MISA.CukCuk.API\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+D:\MISA\ASP.NET_Core\MISA.CukCuk.API\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+D:\MISA\ASP.NET_Core\MISA.CukCuk.API\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+D:\MISA\ASP.NET_Core\MISA.CukCuk.API\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
